@@ -1,0 +1,11 @@
+@tailwind base;
+
+* {
+  margin: 0;
+  background-color: #fff3e3;
+  scroll-behavior: smooth;
+}
+
+.hero-blob-shape {
+  border-bottom-left-radius: 100px;
+}
